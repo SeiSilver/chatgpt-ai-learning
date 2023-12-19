@@ -1,6 +1,6 @@
 # Prompting Principles
 # Principle 1: Write clear and specific instructions
-# Tactic 4: "Few-shot" prompting
+# Tactic 4: "Few-shot" 1-prompting
 #           Give successful examples of completing tasks
 #           Then ask model to perform the task
 from src.utils import get_completion
