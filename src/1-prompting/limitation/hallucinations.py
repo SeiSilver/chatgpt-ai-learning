@@ -9,9 +9,9 @@
 #   - Based on the relevant information.
 from src.utils import get_completion
 
-# Noted: Boie is a real company, the product name is not real.
+# Noted: Coca-Cola is a real company, the product name is not real.
 prompt = f"""
-Tell me about AeroGlide UltraSlim Smart Toothbrush by Boie
+Tell me about Spanish Smart Drink by Coca-Cola
 """
 response = get_completion(prompt)
 print(response)

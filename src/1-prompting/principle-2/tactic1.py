@@ -4,15 +4,11 @@
 from src.utils import get_completion
 
 text = f"""
-In a charming village, siblings Jack and Jill set out on \
-a quest to fetch water from a hilltop \
-well. As they climbed, singing joyfully, misfortune \
-struck—Jack tripped on a stone and tumbled \
+In a charming village, siblings Jack and Jill set out on a quest to fetch water from a hilltop well. \
+As they climbed, singing joyfully, misfortune struck—Jack tripped on a stone and tumbled \
 down the hill, with Jill following suit. \
-Though slightly battered, the pair returned home to \
-comforting embraces. Despite the mishap, \
-their adventurous spirits remained undimmed, and they \
-continued exploring with delight.
+Though slightly battered, the pair returned home to comforting embraces. \
+Despite the mishap, their adventurous spirits remained undimmed, and they continued exploring with delight.
 """
 # example 1
 prompt_1 = f"""

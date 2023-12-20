@@ -48,3 +48,9 @@ Check assumptions required to do the task
 - First find relevant information
 - Then answer the question
 - Based on the relevant information.
+
+# Iterative Principles
+
+---
+
+<img src=".github/docs/iterative-prompt.png" width="500">
