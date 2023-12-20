@@ -48,6 +48,7 @@ Check assumptions required to do the task
 - First find relevant information
 - Then answer the question
 - Based on the relevant information.
+- Define the prompt in a manner that prevents the model from generating a response when it doesn't know the answer
 
 # Iterative Principles
 
